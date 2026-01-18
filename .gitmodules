@@ -10,3 +10,15 @@
 [submodule "01-january/18/psyche"]
 	path = 01-january/18/psyche
 	url = https://github.com/PsycheFoundation/psyche
+[submodule "01-january/18/union"]
+	path = 01-january/18/union
+	url = https://github.com/unionlabs/union
+[submodule "01-january/18/avalanchego"]
+	path = 01-january/18/avalanchego
+	url = https://github.com/ava-labs/avalanchego
+[submodule "01-january/18/snowbridge"]
+	path = 01-january/18/snowbridge
+	url = https://github.com/Snowfork/snowbridge
+[submodule "01-january/18/polkadot-ethereum"]
+	path = 01-january/18/polkadot-ethereum
+	url = https://github.com/Tiamat-Tech/polkadot-ethereum
