@@ -1,0 +1,12 @@
+[submodule "01-january/18/solflake"]
+	path = 01-january/18/solflake
+	url = https://github.com/nasadorian/solflake
+[submodule "01-january/18/chainlink-solana"]
+	path = 01-january/18/chainlink-solana
+	url = https://github.com/smartcontractkit/chainlink-solana
+[submodule "01-january/18/plugin-solana"]
+	path = 01-january/18/plugin-solana
+	url = https://github.com/GoPlugin/plugin-solana
+[submodule "01-january/18/psyche"]
+	path = 01-january/18/psyche
+	url = https://github.com/PsycheFoundation/psyche
